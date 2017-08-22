@@ -33,6 +33,8 @@ public class newsort {
         }
         System.out.print(a[n - 1]);
 
+        
+        
 	}
 
 }
